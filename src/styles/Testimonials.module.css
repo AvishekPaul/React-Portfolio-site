@@ -1,0 +1,13 @@
+.testimonials_container {
+  width: 40%;
+}
+.writing {
+  margin-top: -1rem;
+  background: var(--color-bg-variant);
+  padding: 1.2rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+  display: block;
+  text-align: center;
+}
